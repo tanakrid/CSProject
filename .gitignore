@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+/Resource/*
+/__pycache__/*
+/Lib/*
+/Scripts/*
+*.mp4
+pyvenv.cfg
